@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<viper xmlns="http://lamp.cfar.umd.edu/viper#" xmlns:data="http://lamp.cfar.umd.edu/viperdata#">
+    <config>
+        <descriptor name="Desc0" type="OBJECT">
+            <attribute dynamic="false" name="Categorical Boxplot" type="http://lamp.cfar.umd.edu/viperdata#bbox"/>
+            <attribute dynamic="false" name="Column Chart" type="http://lamp.cfar.umd.edu/viperdata#bbox"/>
+            <attribute dynamic="false" name="Dendogram" type="http://lamp.cfar.umd.edu/viperdata#bbox"/>
+            <attribute dynamic="false" name="Heatmap" type="http://lamp.cfar.umd.edu/viperdata#bbox"/>
+            <attribute dynamic="false" name="Lattice Dendrogram" type="http://lamp.cfar.umd.edu/viperdata#bbox"/>
+            <attribute dynamic="false" name="Line Chart" type="http://lamp.cfar.umd.edu/viperdata#bbox"/>
+            <attribute dynamic="false" name="Map" type="http://lamp.cfar.umd.edu/viperdata#bbox"/>
+            <attribute dynamic="false" name="Node-Link Diagram" type="http://lamp.cfar.umd.edu/viperdata#bbox"/>
+            <attribute dynamic="false" name="Ordination Scatterplot" type="http://lamp.cfar.umd.edu/viperdata#bbox"/>
+            <attribute dynamic="false" name="Pie Chart" type="http://lamp.cfar.umd.edu/viperdata#bbox"/>
+            <attribute dynamic="false" name="Scatterplot" type="http://lamp.cfar.umd.edu/viperdata#bbox"/>
+            <attribute dynamic="false" name="Stacked Area Chart" type="http://lamp.cfar.umd.edu/viperdata#bbox"/>
+        </descriptor>
+    </config>
+    <data>
+        <sourcefile filename="file:/C:/Users/admin/Desktop/HTMLdownload/Image%20Analysis/New%20Test/Kevin/Scatterplot/S0304380003001145-gr8.jpg">
+            <object framespan="1:1" id="0" name="Desc0">
+                <attribute name="Categorical Boxplot"/>
+                <attribute name="Column Chart"/>
+                <attribute name="Dendogram"/>
+                <attribute name="Heatmap"/>
+                <attribute name="Lattice Dendrogram"/>
+                <attribute name="Line Chart"/>
+                <attribute name="Map"/>
+                <attribute name="Node-Link Diagram"/>
+                <attribute name="Ordination Scatterplot"/>
+                <attribute name="Pie Chart"/>
+                <attribute name="Scatterplot">
+                    <data:bbox height="140" width="234" x="16" y="2"/>
+                </attribute>
+                <attribute name="Stacked Area Chart"/>
+            </object>
+            <object framespan="1:1" id="1" name="Desc0">
+                <attribute name="Categorical Boxplot"/>
+                <attribute name="Column Chart"/>
+                <attribute name="Dendogram"/>
+                <attribute name="Heatmap"/>
+                <attribute name="Lattice Dendrogram"/>
+                <attribute name="Line Chart"/>
+                <attribute name="Map"/>
+                <attribute name="Node-Link Diagram"/>
+                <attribute name="Ordination Scatterplot"/>
+                <attribute name="Pie Chart"/>
+                <attribute name="Scatterplot">
+                    <data:bbox height="133" width="225" x="19" y="164"/>
+                </attribute>
+                <attribute name="Stacked Area Chart"/>
+            </object>
+        </sourcefile>
+    </data>
+</viper>

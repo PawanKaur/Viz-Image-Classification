@@ -14,6 +14,5 @@ name check.
 
 Paper presented at 25th International Conference in Central Europe on Computer Graphics, Visualization and Computer Vision 2017
 
-also included poster
 
 
